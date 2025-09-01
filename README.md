@@ -25,7 +25,6 @@ It was developed as part of an Object-Oriented Software Design assignment.
 
 ## Interfaces
 - **CLI (Command-Line Interface)**: Renders the board in ASCII with stats and combat logs.
-- **GUI (optional extension)**: Can be integrated with JavaFX for a more visual experience.
 
 ## Input
 - The game loads levels from text files (e.g., `level1.txt`, `level2.txt`).
